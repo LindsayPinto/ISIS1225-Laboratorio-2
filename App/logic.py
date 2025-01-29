@@ -45,6 +45,7 @@ las consultas sobre ellos.
 def new_logic():
     """
     Inicializa los datos y crea un catalogo vacio. 
+    hola
 
     Para esta actividad, un catalogo es un diccionario donde se guardan
     las estructuras de datos que representan los libros, los autores, los
